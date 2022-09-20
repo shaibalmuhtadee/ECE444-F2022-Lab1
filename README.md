@@ -5,3 +5,7 @@ Activity 1
 
 Activity 2
 ![screenshot of first merge](assets/activity2.png)
+
+
+Activity 3
+![screenshot of resolved merge conflict](assets/activity3.png)
