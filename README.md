@@ -16,3 +16,6 @@ Link to partner's repo: https://github.com/FahimRT/ECE444-F2022-Lab1
 
 Activity 5
 ![screenshot of successful rebase](assets/activity5.png)
+
+Activity 6
+Link to EP repo: https://github.com/shaibalmuhtadee/ECE444-F2022-EP
