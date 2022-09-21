@@ -20,6 +20,10 @@ Activity 5
 Activity 6
 Link to EP repo: https://github.com/shaibalmuhtadee/ECE444-F2022-EP
 
-Activity 5
+Activity 7
 ![screenshot of successful rebase](assets/activity7a.png)
 ![screenshot of new title](assets/activity7b.png)
+
+Activity 8
+![screenshot of successful rebase](assets/activity8a.png)
+![screenshot of new tab](assets/activity8b.png)
